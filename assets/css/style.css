@@ -3,7 +3,30 @@
     color: #777777;
 }
 
+#regular_font{
+    color: #777777;
+    background-color: #cccccc;
+}
+
+.header_background{
+    border-color: #cccccc;
+    Background-color: #ffffff;
+}
+
 .footer{
     background-color: #666666;
 }
 
+.content{
+    background-color:#ffffff;
+    border-color: #dddddd;
+}
+
+li{
+    float: right;
+}
+
+.navigation{
+    display: block;
+    padding: 8x;
+}
